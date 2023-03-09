@@ -1,0 +1,24 @@
+﻿  argon2.c
+  blake2b.c
+  core.c
+D:\口令管理器\HZD\CA-MHF_example\CA-DRS+BRG-Argon2\CA-DRS-Argon2\core.c(237,34): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+D:\口令管理器\HZD\CA-MHF_example\CA-DRS+BRG-Argon2\CA-DRS-Argon2\core.c(244,29): warning C4133: “函数”: 从“uint64_t *”到“unsigned long *”的类型不兼容
+D:\口令管理器\HZD\CA-MHF_example\CA-DRS+BRG-Argon2\CA-DRS-Argon2\core.c(246,7): warning C4018: “<”: 有符号/无符号不匹配
+D:\口令管理器\HZD\CA-MHF_example\CA-DRS+BRG-Argon2\CA-DRS-Argon2\core.c(220,26): warning C4101: “j”: 未引用的局部变量
+D:\口令管理器\HZD\CA-MHF_example\CA-DRS+BRG-Argon2\CA-DRS-Argon2\core.c(220,24): warning C4101: “i”: 未引用的局部变量
+  encoding.c
+  opt.c
+D:\口令管理器\HZD\CA-MHF_example\CA-DRS+BRG-Argon2\CA-DRS-Argon2\opt.c(152,11): warning C4101: “output”: 未引用的局部变量
+  test.c
+D:\口令管理器\HZD\CA-MHF_example\CA-DRS+BRG-Argon2\CA-DRS-Argon2\test.c(44,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\口令管理器\HZD\CA-MHF_example\CA-DRS+BRG-Argon2\CA-DRS-Argon2\test.c(67,17): warning C4101: “msg”: 未引用的局部变量
+D:\口令管理器\HZD\CA-MHF_example\CA-DRS+BRG-Argon2\CA-DRS-Argon2\test.c(71,9): warning C4101: “v”: 未引用的局部变量
+D:\口令管理器\HZD\CA-MHF_example\CA-DRS+BRG-Argon2\CA-DRS-Argon2\test.c(66,20): warning C4101: “out”: 未引用的局部变量
+D:\口令管理器\HZD\CA-MHF_example\CA-DRS+BRG-Argon2\CA-DRS-Argon2\test.c(65,9): warning C4101: “ret”: 未引用的局部变量
+  thread.c
+    正在创建库 D:\口令管理器\HZD\CA-MHF_example\CA-DRS+BRG-Argon2\CA-DRS-Argon2\x64\Release\CA-DRS+BRG.lib 和对象 D:\口令管理器\HZD\CA-MHF_example\CA-DRS+BRG-Argon2\CA-DRS-Argon2\x64\Release\CA-DRS+BRG.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 71 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  CA-DRS+BRG.vcxproj -> D:\口令管理器\HZD\CA-MHF_example\CA-DRS+BRG-Argon2\CA-DRS-Argon2\x64\Release\CA-DRS+BRG.exe
