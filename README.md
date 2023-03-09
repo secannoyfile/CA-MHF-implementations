@@ -42,10 +42,10 @@ Parameters:
 
 ## Windows
 
-To show usage instructions, run `Argon2.exe` by using CMD as
+To show usage instructions, run `CA-DRS+BRG.exe` by using CMD as
 
 ```
-Usage:      Argon2.exe password salt [-t iteration] [-m memory] [-p parallelism] [-l hash length]
+Usage:      CA-DRS+BRG.exe password salt [-t iteration] [-m memory] [-p parallelism] [-l hash length]
 Parameters:
         password	   The input password, for instance, a user’s password
         salt               The salt to use, at least 8 characters
