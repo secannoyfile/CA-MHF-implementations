@@ -11,7 +11,7 @@ To show usage instructions, run `CA-Argon2.exe` by using CMD as
 ```
 Usage:      CA-Argon2.exe password salt [-t iteration] [-m memory] [-p parallelism] [-l hash length]
 Parameters:
-        password	       The input password, for instance, a user’s password
+        password	   The input password, for instance, a user’s password
         salt               The salt to use, at least 8 characters
         -t N	           Sets the maximum number of the iterations to N, the iteration number is a random number 1<=tx<=t
         -m N	           Sets of the memory capacity of 2^N KB
@@ -28,7 +28,7 @@ Open a terminal in the CA-Argon2-Linux folder and type make to compile the execu
 ```
 Usage:      ./argon2 password salt [-t iteration] [-m memory] [-p parallelism] [-l hash length]
 Parameters:
-        password	       The input password, for instance, a user’s password
+        password	   The input password, for instance, a user’s password
         salt               The salt to use, at least 8 characters
         -t N	           Sets the maximum number of the iterations to N, the iteration number is a random number 1<=tx<=t
         -m N	           Sets of the memory capacity of 2^N KB
@@ -47,7 +47,7 @@ To show usage instructions, run `Argon2.exe` by using CMD as
 ```
 Usage:      Argon2.exe password salt [-t iteration] [-m memory] [-p parallelism] [-l hash length]
 Parameters:
-        password	       The input password, for instance, a user’s password
+        password	   The input password, for instance, a user’s password
         salt               The salt to use, at least 8 characters
         -t N	           Sets the maximum number of the iterations to N, the iteration number is a random number 1<=tx<=t
         -m N	           Sets of the memory capacity of 2^N KB
@@ -64,7 +64,7 @@ Open a terminal in the CA-DRS-BRG-Linux folder and type make to compile the exec
 ```
 Usage:      ./CA-DRS+BRG password salt [-t iteration] [-m memory] [-p parallelism] [-l hash length]
 Parameters:
-        password	       The input password, for instance, a user’s password
+        password	   The input password, for instance, a user’s password
         salt               The salt to use, at least 8 characters
         -t N	           Sets the maximum number of the iterations to N, the iteration number is a random number 1<=tx<=t
         -m N	           Sets of the memory capacity of 2^N KB
