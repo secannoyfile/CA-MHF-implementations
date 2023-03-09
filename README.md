@@ -36,9 +36,9 @@ Parameters:
         -l N 	           Sets of hash output length to N bytes
 ```
 
-# CA-DRS-Argon2_README
+# CA-DRS+BRG_README
 
-`CA-DRS-Argon2` is a command-line utility to test CA-DRS-Argon2 instances on your system. You can run on Windows and Linux system. The commands are similar under different operating systems.
+`CA-DRS-BRG` is a command-line utility to test CA-DRS-BRG instances on your system. You can run on Windows and Linux system. The commands are similar under different operating systems.
 
 ## Windows
 
@@ -59,10 +59,10 @@ Parameters:
 
 ## Linux
 
-Open a terminal in the CA-DRS-Argon2-Linux folder and type make to compile the executable file. To show usage instructions run `./argon2` as
+Open a terminal in the CA-DRS-BRG-Linux folder and type make to compile the executable file. To show usage instructions run `./CA-DRS+BRG` as
 
 ```
-Usage:      ./argon2 password salt [-t iteration] [-m memory] [-p parallelism] [-l hash length]
+Usage:      ./CA-DRS+BRG password salt [-t iteration] [-m memory] [-p parallelism] [-l hash length]
 Parameters:
         password	       The input password, for instance, a user’s password
         salt               The salt to use, at least 8 characters
