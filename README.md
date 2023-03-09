@@ -1,6 +1,6 @@
 The implementations of cost asymmetric memory hard functions (CA-MHFs). Here are the examples of CA-Argon2 and CA-DRS+BRG.
 
-# CA-Argon2_README
+# CA-Argon2 README
 
 `CA-Argon2` is a command-line utility to test specific Argon2 instances on your system. You can run on Windows and Linux system. The commands are similar under different operating systems.
 
@@ -36,7 +36,7 @@ Parameters:
         -l N 	           Sets of hash output length to N bytes
 ```
 
-# CA-DRS+BRG_README
+# CA-DRS+BRG README
 
 `CA-DRS-BRG` is a command-line utility to test CA-DRS-BRG instances on your system. You can run on Windows and Linux system. The commands are similar under different operating systems.
 
