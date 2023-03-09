@@ -1,0 +1,31 @@
+CA-MHF
+Test Argon2i version number: 19
+Hash test: $v=19 t=4, m=20, p=1, pass=password, salt=somesalt:
+Hash:     e559d7f97f2e3f37aa18999585be780444bc82426f534cda2e1b99b793037d9d
+Encoded:  $argon2i$v=19$m=1048576,t=4,p=1$c29tZXNhbHQ$5VnX+X8uPzeqGJmVhb54BES8gkJvU0zaLhuZt5MDfZ0
+
+argon2i
+Iterations:	4
+Memory:	1048576 KiB
+Parallelism:1
+Hash:	5b6c2c113412cd039eaa87ff0a6273cfa0f5395ef2cfd19838f6050adc239be2
+Encoded:	$argon2i$v=19$m=1048576,t=4,p=1$c29tZXNhbHQ$W2wsETQSzQOeqof/CmJzz6D1OV7yz9GYOPYFCtwjm+I
+__________________________________________________________________
+
+
+$v=19 t=3, m=20, p=1, pass=password, salt=somesalt:
+Hash:     fc13c84667f67f6f04e32271290222a74bf76e05438290b2cbca7984415562fe
+Encoded:  $argon2i$v=19$m=1048576,t=3,p=1$c29tZXNhbHQ$/BPIRmf2f28E4yJxKQIip0v3bgVDgpCyy8p5hEFVYv4
+
+Test Argon2i version number: 19
+Hash test: $v=19 t=2, m=20, p=1, pass=password, salt=somesalt:
+Hash:     d1587aca0922c3b5d6a83edab31bee3c4ebaef342ed6127a55d19b2351ad1f41
+Encoded:  $argon2i$v=19$m=1048576,t=2,p=1$c29tZXNhbHQ$0Vh6ygkiw7XWqD7asxvuPE667zQu1hJ6VdGbI1GtH0E
+
+argon2i
+Type:		Argon2i
+Iterations:	3
+Memory:		1048576 KiB
+Parallelism:	1
+Hash: 	4f291394ad56ab68fb0a9f0e1cfd91b080a1e36a7a7e7ff476253e930ed44398
+Encoded:	$argon2i$v=19$m=1048576,t=3,p=1$c29tZXNhbHQ$TykTlK1Wq2j7Cp8OHP2RsICh42p6fn/0diU+kw7UQ5g
